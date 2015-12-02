@@ -102,9 +102,9 @@ Tidbits
 Running the tests
 -----------------
 
-If you wish to hack on Stalker, install these extra gems:
+If you wish to hack on Stalker, install the dependencies:
 
-    $ gem install contest mocha
+    $ bundle install
 
 Make sure you have a beanstalkd running, then run the tests:
 
